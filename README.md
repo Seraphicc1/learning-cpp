@@ -14,3 +14,9 @@ C++ Study-Repository (VS Code + GitHub).
 - 02 Variables & Simple Data Types
   - Code: `src/02_variables.cpp`
   - Notes: `docs/02_variables.md`
+- 03 Constance
+  - Code: `src/03_constance.cpp`
+  - Notes: `docs/03_constance.md`
+- 04 Namespaces
+  - Code: `src/04_namespaces.cpp`
+  - Notes: `docs/04_namespaces.md`
