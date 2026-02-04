@@ -8,6 +8,9 @@ C++ Study-Repository (VS Code + GitHub).
 - `.vscode/` = VS Code Settings
 
 # Lessons
-- 01 Hello C++  
+- 01 Print & Comment  
   - Code: `src/01_hello.cpp`  
   - Notes: `docs/01_hello.md`
+- 02 Variables & Simple Data Types
+  - Code: `src/02_variables.cpp`
+  - Notes: `docs/02_variables.md`

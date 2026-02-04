@@ -1,4 +1,4 @@
-# 01 Hello C++
+# 01 Print & Comment
 
 # Goal
 Compile and run first C++ program
@@ -8,5 +8,6 @@ Look: `src/01_hello.cpp`
 
 # Notes
 - `#include <iostream>` for output
-- `std::cout` for text
+- `std::cout` for printing
 - `\n` = new line
+- `// and /*...*/` = comment / multi-comment
