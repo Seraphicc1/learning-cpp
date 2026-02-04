@@ -1,0 +1,38 @@
+# Binaries / executables
+*.exe
+*.out
+*.app
+
+# Object / intermediate
+*.o
+*.obj
+*.d
+*.pch
+*.gch
+*.ilk
+*.pdb
+
+# Libraries
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Build folders
+build/
+Build/
+build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Misc
+*.log
+*.tmp
+*.swp
+.cache/
