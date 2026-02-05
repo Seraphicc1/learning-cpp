@@ -20,3 +20,9 @@ C++ Study-Repository (VS Code + GitHub).
 - 04 Namespaces
   - Code: `src/04_namespaces.cpp`
   - Notes: `docs/04_namespaces.md`
+- 05 Typedef & Using
+  - Code: `src/05_typedef.cpp`
+  - Notes: `docs/05_typedef.md`
+- 06 Arithmetic Operators
+  - Code: `src/06_arithmetic_operators.cpp`
+  - Notes: `docs/06_arithmetic_operators.md`
