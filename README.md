@@ -26,3 +26,9 @@ C++ Study-Repository (VS Code + GitHub).
 - 06 Arithmetic Operators
   - Code: `src/06_arithmetic_operators.cpp`
   - Notes: `docs/06_arithmetic_operators.md`
+- 07 Type Conversion
+  - Code: `src/07_conversion.cpp`
+  - Notes: `docs/07_conversion.md`
+- 08 User Input
+  - Code: `src/08_user_input.cpp`
+  - Notes: `docs/08_user_input.md`
