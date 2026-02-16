@@ -32,3 +32,12 @@ C++ Study-Repository (VS Code + GitHub).
 - 08 User Input
   - Code: `src/08_user_input.cpp`
   - Notes: `docs/08_user_input.md`
+- 09 Math Functions
+  - Code: `src/09_math_functions.cpp`
+  - Notes: `docs/09_math_functions.md`
+- 10 Hypotenuse Calculator Practice Program
+  - Code: `src/10_hypotenuse_calculator.cpp`
+  - Notes: `docs/10_hypotenuse_calculator.md`
+- 11 If Statements
+  - Code: `src/11_if_statements.cpp`
+  - Notes: `docs/11_if_statements.md`
