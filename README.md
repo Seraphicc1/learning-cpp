@@ -41,3 +41,9 @@ C++ Study-Repository (VS Code + GitHub).
 - 11 If Statements
   - Code: `src/11_if_statements.cpp`
   - Notes: `docs/11_if_statements.md`
+- 12 Switch
+  - Code: `src/12_switch.cpp`
+  - Notes: `docs/12_switch.md`
+- 13 Simple Calculator
+  - Code: `src/13_simple_calculator.cpp`
+  - Notes: `docs/13_simple_calculator.md`
