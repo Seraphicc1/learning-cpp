@@ -47,3 +47,12 @@ C++ Study-Repository (VS Code + GitHub).
 - 13 Simple Calculator
   - Code: `src/13_simple_calculator.cpp`
   - Notes: `docs/13_simple_calculator.md`
+- 14 Ternary Operator
+  - Code: `src/14_ternary_operator.cpp`
+  - Notes: `docs/14_ternary_operator.md`
+- 15 Logical Operator
+  - Code: `src/15_logical_operator.cpp`
+  - Notes: `docs/15_logical_operator.md`
+- 16 Temperature Conversion Program
+  - Code: `src/16_temperature_converter.cpp`
+  - Notes: `docs/16_temperature_converter.md`
