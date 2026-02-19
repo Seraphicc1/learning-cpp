@@ -7,4 +7,4 @@ Create a console program to convert Celsius into Fahrenheit and vice versa
 Look: `src/16_temperature_converter.cpp`
 
 # Notes
-- 
+- Use `||` to make upper and lowercase input possible or the user

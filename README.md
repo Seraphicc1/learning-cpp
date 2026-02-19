@@ -56,3 +56,9 @@ C++ Study-Repository (VS Code + GitHub).
 - 16 Temperature Conversion Program
   - Code: `src/16_temperature_converter.cpp`
   - Notes: `docs/16_temperature_converter.md`
+- 17 String Methods
+  - Code: `src/17_string_methods.cpp`
+  - Notes: `docs/17_string_methods.md`
+- 18 Do While/While/For Loops
+  - Code: `src/18_loops.cpp`
+  - Notes: `docs/18_loops.md`
