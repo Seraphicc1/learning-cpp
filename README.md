@@ -62,3 +62,6 @@ C++ Study-Repository (VS Code + GitHub).
 - 18 Do While/While/For Loops
   - Code: `src/18_loops.cpp`
   - Notes: `docs/18_loops.md`
+- 19 Random Number Generator
+  - Code: `src/19_random_number_generator.cpp`
+  - Notes: `docs/19_random_number_generator.md`

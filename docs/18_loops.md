@@ -14,3 +14,4 @@ Look: `src/18_loops.cpp`
 - `for` = Used to run a block fo code for a specific amount of times
 - `continue` = Use to skip current iteration
 - `break` = Use to break out of the loop
+- "Nested Loops" = Loops that are put inside another loop
