@@ -4,7 +4,7 @@
 Practice program to generate a pseudo-random number
 
 # Code
-Look: `src/19_random_number_generator.cpp`
+Look: `src/19_random_number.cpp`
 
 # Notes
 - You can freely pick the range where you want number from

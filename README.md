@@ -63,5 +63,17 @@ C++ Study-Repository (VS Code + GitHub).
   - Code: `src/18_loops.cpp`
   - Notes: `docs/18_loops.md`
 - 19 Random Number Generator
-  - Code: `src/19_random_number_generator.cpp`
-  - Notes: `docs/19_random_number_generator.md`
+  - Code: `src/19_random_number.cpp`
+  - Notes: `docs/19_random_number.md`
+- 20 Random Event Generator
+  - Code: `src/20_random_event.cpp`
+  - Notes: `docs/20_random_event.md`
+- 21 Number Guessing Game
+  - Code: `src/21_number_game.cpp`
+  - Notes: `docs/21_number_game.md`
+- 22 User Defined Functions
+  - Code: `src/22_custom_functions.cpp`
+  - Notes: `docs/22_custom_functions.md`
+- 23 Return Value
+  - Code: `src/23_return_value.cpp`
+  - Notes: `docs/23_return_value.md`
