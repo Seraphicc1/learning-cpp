@@ -75,5 +75,12 @@ C++ Study-Repository (VS Code + GitHub).
   - Code: `src/22_custom_functions.cpp`
   - Notes: `docs/22_custom_functions.md`
 - 23 Return Value
-  - Code: `src/23_return_value.cpp`
-  - Notes: `docs/23_return_value.md`
+  - Code: `src/23_return_and_overload.cpp`
+  - Notes: `docs/23_return_and_overload.md`
+- 24 Variable Scope
+  - Code: `src/24_variable_scope.cpp`
+  - Notes: `docs/24_variable_scope.md`
+- 25 Banking Program
+  - Code: `src/25_banking_program.cpp`
+  - Notes: `docs/25_banking_program.md`
+  
