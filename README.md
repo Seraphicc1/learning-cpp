@@ -83,4 +83,6 @@ C++ Study-Repository (VS Code + GitHub).
 - 25 Banking Program
   - Code: `src/25_banking_program.cpp`
   - Notes: `docs/25_banking_program.md`
-  
+- 26 Rock Paper Scissors
+  - Code: `src/26_rps.cpp`
+  - Notes: `docs/26_rps.md`
