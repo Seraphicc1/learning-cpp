@@ -86,3 +86,6 @@ C++ Study-Repository (VS Code + GitHub).
 - 26 Rock Paper Scissors
   - Code: `src/26_rps.cpp`
   - Notes: `docs/26_rps.md`
+- 27 Arrays
+  - Code: `src/27_arrays.cpp`
+  - Notes: `docs/27_arrays.md`
