@@ -89,3 +89,6 @@ C++ Study-Repository (VS Code + GitHub).
 - 27 Arrays
   - Code: `src/27_arrays.cpp`
   - Notes: `docs/27_arrays.md`
+- 28 Quiz Game
+  - Code: `src/28_quiz_game.cpp`
+  - Notes: `docs/28_quiz_game.md`
