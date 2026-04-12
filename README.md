@@ -95,6 +95,6 @@ C++ Study-Repository (VS Code + GitHub).
 - 29 Pointers
   - Code: `src/29_pointers.cpp`
   - Notes: `docs/29_pointers.md`
-- Credit Card Validator Program
+- 30 Credit Card Validator Program
   - Code: `src/30_creditcard_validator.cpp`
   - Notes: `docs/30_creditcard_validator.md`
