@@ -92,9 +92,12 @@ C++ Study-Repository (VS Code + GitHub).
 - 28 Quiz Game
   - Code: `src/28_quiz_game.cpp`
   - Notes: `docs/28_quiz_game.md`
-- 29 Pointers
-  - Code: `src/29_pointers.cpp`
-  - Notes: `docs/29_pointers.md`
+- 29 Pass by Reference vs Value
+  - Code: `src/29_reference.cpp`
+  - Notes: `docs/29_reference.md`
 - 30 Credit Card Validator Program
   - Code: `src/30_creditcard_validator.cpp`
   - Notes: `docs/30_creditcard_validator.md`
+- 31 Pointers
+  - Code: `src/31_pointers.cpp`
+  - Notes: `docs/31_pointers.md`

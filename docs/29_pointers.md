@@ -1,10 +1,10 @@
-# 29 Pointers
+# 29 Pass by Reference vs Value
 
 # Goal
-Basics of pointers and memory
+Difference between the value of a variable and the reference
 
 # Code
-Look: `src/29_pointers.cpp`
+Look: `src/29_reference.cpp`
 
 # Notes
 - `&` = Before a variable to access its memory address
