@@ -101,3 +101,6 @@ C++ Study-Repository (VS Code + GitHub).
 - 31 Pointers
   - Code: `src/31_pointers.cpp`
   - Notes: `docs/31_pointers.md`
+- 32 Tic Tac Toe Game
+  - Code: `src/32_tictactoe.cpp`
+  - Notes: `docs/32_tictactoe.md`
