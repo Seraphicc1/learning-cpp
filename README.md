@@ -104,3 +104,19 @@ C++ Study-Repository (VS Code + GitHub).
 - 32 Tic Tac Toe Game
   - Code: `src/32_tictactoe.cpp`
   - Notes: `docs/32_tictactoe.md`
+- 33 Dynamic Memory
+  - Code: `src/33_dynamic_memory.cpp`
+  - Notes: `docs/33_dynamic_memory.md`
+- 34 Recursive Programming
+  - Code: `src/34_recursion.cpp`
+  - Notes: `docs/34_recursion.md`
+- 35 Function Templates
+  - Code: `src/35_templates.cpp`
+  - Notes: `docs/35_templates.md`
+- 36 Structs
+  - Code: `src/36_structs.cpp`
+  - Notes: `docs/36_structs.md`
+- 37 Enums
+  - Code: `src/37_enums.cpp`
+  - Notes: `docs/37_enums.md`
+  
