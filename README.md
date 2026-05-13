@@ -119,4 +119,15 @@ C++ Study-Repository (VS Code + GitHub).
 - 37 Enums
   - Code: `src/37_enums.cpp`
   - Notes: `docs/37_enums.md`
-  
+- 38 Classes & Objects
+  - Code: `src/38_classes.cpp`
+  - Notes: `docs/38_classes.md`
+- 39 (Overloaded) Constructor
+  - Code: `src/39_constructor.cpp`
+  - Notes: `docs/39_constructor.md`
+- 40 Abstraction
+  - Code: `src/40_abstraction.cpp`
+  - Notes: `docs/40_abstraction.md`
+- 41 Inheritance
+  - Code: `src/41_inheritance.cpp`
+  - Notes: `docs/41_inheritance.md`
